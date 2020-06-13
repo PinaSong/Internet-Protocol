@@ -4,7 +4,8 @@
 # protocol_analyzer.cpp(Linux).txt
 Ethernet Frame 분석
 
-▣ Ethernet Frame(Ethernet Header + IP + TCP)                                                                                                  
+▣ Ethernet Frame(Ethernet Header + IP + TCP)
+
 ▣ Ethernet Frame(Ethernet Header + ARP)
 
 ▣ Ethernet Frame(Ethernet Header + IP + ICMP)
